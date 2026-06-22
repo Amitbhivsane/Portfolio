@@ -82,10 +82,10 @@ export const assets = {
 
 export const workData = [
   {
-    title: "Frontend project",
-    description: "Food WebSite",
-    bgImage: "/food.png",
-    link: "https://food-ordering-pink-iota.vercel.app/",
+    title: "Resume Builder project",
+    description: "Aura Resume Builder",
+    bgImage: "/Resume.png",
+    link: "https://resume-builder-nextjs-rosy.vercel.app/",
   },
   {
     title: "Full Stack Project",
